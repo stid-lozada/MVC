@@ -1,0 +1,11 @@
+{
+  "clientes": [
+    {
+      "nombre": "Stid Lozada",
+      "email": "stlobe@hotmail.es",
+      "telefono": "8525151654",
+      "empresa": "Telefonica",
+      "id": 1
+    }
+  ]
+}
